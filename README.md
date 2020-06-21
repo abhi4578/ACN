@@ -1,6 +1,6 @@
 # ACN
 
-The implemented code is present at ns-3-dev/scratch/ directory. Following correspond to following simulations:
+The implemented code is present at ns-3-dev/scratch/ directory. Following files correspond to following simulations:
 
 1) 6lowpan_route_optimed.cc - route over topology with partially optimized ND
 2)  6lowpan_mesh_optimed.cc -  mesh  topology with partially optimized ND
